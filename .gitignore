@@ -1,0 +1,11 @@
+instructions
+references
+data
+data_extraction/**/**
+!data_extraction/extract.ipynb
+
+*/__pycache__/
+*/*.zip
+
+.DS_Store
+*/.DS_Store
